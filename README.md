@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sashwitha
+- 👋 Hi, I’m @Ashwitha
 - 👀 I’m interested in learing coding
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
